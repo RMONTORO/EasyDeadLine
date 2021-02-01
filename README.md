@@ -1,2 +1,2 @@
 # easydeadline
-An easy deadline manager
+An easy deadline manager for android
